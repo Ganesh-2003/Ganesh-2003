@@ -1,130 +1,16 @@
-# Hi there, I'm Ganesh 👋
+<h1 align="center">Hi 👋, I'm Ganesh Puppala</h1>
+<h3 align="center">Passinoate Backend Developer at Fiserv</h3>
 
-## About Me
+- 🔭 I’m currently working on **Java, C#.NET, Python,SQL, and Backend Development**
 
-💻 Software Developer passionate about Backend Development and Full Stack Applications
-🚀 Experienced in building Authentication Systems, REST APIs, and Web Applications
-🧠 Strong interest in Data Structures & Algorithms and Problem Solving
-🔐 Currently working with C#.NET, SQL, and modern backend technologies
-🌱 Exploring scalable system design and secure application development
+- 🌱 I’m currently learning **Java Spring Boot**
 
----
+- 📫 How to reach me **https://www.linkedin.com/in/ganesh-puppala-0a1536161/**
 
-## Tech Stack
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### Languages
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-* Java
-* C++
-* Python
-* JavaScript
-* SQL
-* C#
-
-### Backend Development
-
-* Spring Boot
-* Spring Security
-* JWT Authentication
-* REST APIs
-* Flask
-* .NET Framework
-* JDBC
-
-### Frontend Development
-
-* React
-* Vue.js
-* HTML
-* CSS
-* Bootstrap
-
-### Databases
-
-* MySQL
-* PostgreSQL
-* SQL Server
-* SQLite3
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* GitLab
-* TFS
-* Postman
-* IntelliJ IDEA
-* VS Code
-
----
-
-## Experience
-
-### Software Developer — Fiserv
-
-* Working with C#.NET, SQL, and .NET Framework
-* Built internal migration and validation tools
-* Automated field mapping validations and data migration processes
-
-### Software Developer Intern — Fiserv
-
-* Developed OAuth onboarding applications
-* Built Selenium automation scripts
-* Managed codebase using GitLab
-
----
-
-## Featured Projects
-
-### 🔐 Auth Application
-
-* Full-stack authentication system using Spring Boot + React
-* JWT Authentication & Role-Based Access Control (RBAC)
-* Secure REST APIs with Spring Security
-
-### 🚗 Vehicle Parking System
-
-* Built using Flask, Vue.js, and SQLite3
-* Separate Admin and User dashboards
-* Real-time parking spot tracking and booking system
-
----
-
-## Achievements
-
-🏆 Solved 300+ DSA problems on LeetCode and GeeksforGeeks
-⭐ 4-Star rating in C++ and Python on HackerRank
-🎓 IIT Madras Diploma in Programming & Data Science
-📚 Completed multiple development courses on Udemy, Coursera, and FreeCodeCamp
-
----
-
-## Current Focus
-
-* Backend Development
-* Spring Security & OAuth2
-* C#.NET Development
-* System Design
-* Scalable APIs
-
----
-
-## GitHub Stats
-
-![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh-2003\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-2003\&layout=compact)
-
----
-
-## Connect With Me
-
-* GitHub: [https://github.com/Ganesh-2003](https://github.com/Ganesh-2003)
-* LinkedIn: Add your LinkedIn profile here
-* LeetCode: Add your LeetCode profile here
-
----
-
-## Fun Fact
-
-⚡ I enjoy building backend systems and solving challenging coding problems.
