@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh Puppala</h1>
-<h3 align="center">Passinoate Backend Developer at Fiserv</h3>
+<h3 align="center">Passionate Backend Developer at Fiserv</h3>
 
-- 🔭 I’m currently working on **Java, C#.NET, Python,SQL, and Backend Development**
+- 🔭 I’m currently working on **Java, C#.NET, Python, SQL and Backend Development**
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
